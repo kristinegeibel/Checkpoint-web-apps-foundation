@@ -1,1 +1,0 @@
-# checkpoint-web-apps-foundation
